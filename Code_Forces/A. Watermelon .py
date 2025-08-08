@@ -1,0 +1,1 @@
+print('YES' if (n:= int(input())) % 2 == 0 and n > 2 else 'NO')
