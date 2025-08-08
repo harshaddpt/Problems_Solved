@@ -1,6 +1,6 @@
 # Problems Solved
 
-A collection of competitive programming problems solved by **Harshad**
+A collection of competitive programming problems solved by **Harshad D**
 
 ## 📚 Repository Overview
 
@@ -69,7 +69,7 @@ This repository represents my personal journey in competitive programming. While
 
 ## 📧 Contact
 
-**Author:** Harshad  
+**Author:** Harshad D 
 **GitHub:** [@harshaddpt](https://github.com/harshaddpt)
 
 ## 📄 License
