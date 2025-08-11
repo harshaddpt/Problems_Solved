@@ -1,0 +1,1 @@
+print((s := input())[0].upper() + s[1:])
