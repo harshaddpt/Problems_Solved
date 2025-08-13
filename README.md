@@ -70,6 +70,7 @@ This repository represents my personal journey in competitive programming. While
 ## 📧 Contact
 
 **Author:** Harshad D 
+
 **GitHub:** [@harshaddpt](https://github.com/harshaddpt)
 
 ## 📄 License
